@@ -7,3 +7,7 @@ bugfix second
 bug 3
 bug 4
 bug 5
+feature first 
+feature second
+feature third
+feature 4th
