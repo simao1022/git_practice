@@ -2,6 +2,11 @@ hello
 this is git init file
 add another line
 third change
+bug fix
+bugfix second
+bug 3
+bug 4
+bug 5
 feature first 
 feature second
 feature third
