@@ -11,3 +11,4 @@ feature first
 feature second
 feature third
 feature 4th
+bug 6
